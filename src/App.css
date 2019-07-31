@@ -1,0 +1,96 @@
+#logoFb {
+    height : 45px;
+    width: 45px;
+}
+ #logoInsta  {
+    height : 45px;
+    width: 45px;
+}
+.list-social{
+    display: flex;
+    justify-content: flex-end;
+    padding: 50px;
+    
+    
+}
+
+.footer {
+    
+    background: #E8E8E8;
+   
+}
+
+.footer-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+   
+    }
+    .contact{
+        display: flex;
+        justify-content: center;
+    }
+    .input-group.md-form.form-sm.form-1 input {
+        border: 1px solid #bdbdbd;
+        border-top-right-radius: 0.25rem;
+        border-bottom-right-radius: 0.25rem;
+      }
+
+      .pays{
+        float: left;
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
+      }
+      .countries-city{
+        padding: 20px;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        margin: 0px 50px;
+        padding: 20px;
+        text-decoration: none;
+      }  
+      .countries-city a {
+        
+        text-decoration: none;
+        color: #747474;
+      }
+
+      .emty-card{
+
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+
+      .formy{
+        padding: 10px;
+      }
+       .town{
+        padding: 30px;
+       
+        
+       }
+      
+      .town:hover{
+       
+        border: 5px ;
+        box-shadow: 2px 2px 2px 2px gray ;
+      }
+
+      /*.image{
+          width: 10px;
+          height: 10px;
+      }
+      */
+      .see {
+        background-color: #1662C6;
+        padding: 10px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: flex-end;
+      }
+      .see a{
+        color: white;
+      }

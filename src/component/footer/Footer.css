@@ -1,0 +1,55 @@
+#logoFb {
+    height : 45px;
+    width: 45px;
+}
+ #logoInsta  {
+    height : 45px;
+    width: 45px;
+}
+.list-social{
+    margin: 10px;
+}
+strong {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    p{
+        display:flex;
+    flex-direction: column;
+    align-items: center;
+    }
+.footer {
+    background: #E8E8E8;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#title-footer-adress {
+    width:350px;
+    margin:0 0 15px -29px;
+    color:#fff;
+    font-size:18px;
+    font-weight:normal;
+    padding:0 0 9px 0;
+    background: no-repeat 0 100%;
+    background-size:9px 9px;
+}
+#title-footer-adress  {
+    display:flex;
+    justify-content: center;
+    display:block;
+    background:#ed1c24;
+    margin:-26px 0 1px 0;
+    padding:8px 20px;
+}
+.footer-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 0px 0px 0px ;
+    }
+    .contact{
+        display: flex;
+        justify-content: center;
+    }

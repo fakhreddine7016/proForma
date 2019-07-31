@@ -1,0 +1,47 @@
+.pays{
+    float: left;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+  }
+  .countries-city{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0px 50px;
+    padding: 20px;
+    text-decoration: none;
+  }  
+  .countries-city a {
+    
+    text-decoration: none;
+    color: #747474;
+  }
+   .town{
+    padding: 30px;
+   
+    
+   }
+  
+  .town:hover{
+   
+    border: 5px ;
+    box-shadow: 2px 2px 2px 2px gray ;
+  }
+
+  /*.image{
+      width: 10px;
+      height: 10px;
+  }
+  */
+  .see {
+    background-color: #1662C6;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .see a{
+    color: white;
+  }
